@@ -1,0 +1,9 @@
+{
+  "appId": "com.nursultan.app",
+  "appName": "Nursultan",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nursultan-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nursultan language learning game packaged for mobile publishing.",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "npx cap sync android",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios",
+    "postinstall": "npx cap sync"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "serve": "^14.2.1"
+  }
+}

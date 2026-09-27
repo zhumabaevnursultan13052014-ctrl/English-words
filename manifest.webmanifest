@@ -1,0 +1,17 @@
+{
+  "name": "Nursultan",
+  "short_name": "Nursultan",
+  "description": "English + Russian learning quiz game with streaks and daily progress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#58cc02",
+  "icons": [
+    {
+      "src": "icons/nursultan-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
